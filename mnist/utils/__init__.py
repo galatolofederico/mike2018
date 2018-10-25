@@ -1,0 +1,1 @@
+from .moving_avg import MovingAverage
