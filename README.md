@@ -12,7 +12,7 @@ git clone https://github.com/galatolofederico/mike2018 && cd mike2018
 ```
 Create a python virtualenv and activate it, make sure to use **python3**
 ```
-virtualenv --python=/usr/bin/python3 && source ./env/bin/activate
+virtualenv --python=/usr/bin/python3 env && source ./env/bin/activate
 ```
 Install the requirements
 ```
