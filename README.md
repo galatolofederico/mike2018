@@ -1,6 +1,6 @@
 # mike2018
 
-This repository contains the implementation of the experiments proposed in the paper [*Using stigmergy to incorporate the time into artificial neural networks*]().  
+This repository contains the implementation of the experiments proposed in the paper [*Using stigmergy to incorporate the time into artificial neural networks*](http://www.iet.unipi.it/m.cimino/publications/cimino_pub62.pdf).  
 If you are interested on the **actual implementation** of the **Stigmergic Neural Networks** please check out the  [**torchsnn repository**](https://github.com/galatolofederico/torchsnn)
 
 
