@@ -70,4 +70,4 @@ If you want to cite us please use this BibTeX
 ## Contributing
 
 This code is released under GNU/GPLv3 so feel free to fork it and submit your changes, every PR helps.  
-If you need help using it or for any question please reach me at [galatolo.federico@gmail.com](mailto:galatolo.federico@gmail.com) or on Telegram  [@galatolo](https://t.me/galatolo)
+If you need help using it or for any question please reach me at [federico.galatolo@ing.unipi.it](mailto:federico.galatolo@ing.unipi.it) or on Telegram  [@galatolo](https://t.me/galatolo)
