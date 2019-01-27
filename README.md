@@ -59,11 +59,20 @@ Train and evaluation of the xor problem using only **one stigmergic perceptron**
 If you want to cite us please use this BibTeX
 
 ```
-@article{galatolo_snn
-,	author	= {Galatolo, Federico A and Cimino, Mario GCA and Vaglini, Gigliola}
-,	title	= {Using stigmergy to incorporate the time into artificial neural networks}
-,	journal	= {MIKE 2018}
-,	year	= {2018}
+@InProceedings{10.1007/978-3-030-05918-7_22,
+    author="Galatolo, Federico A.
+    and Cimino, Mario Giovanni C. A.
+    and Vaglini, Gigliola",
+    editor="Groza, Adrian
+    and Prasath, Rajendra",
+    title="Using Stigmergy to Incorporate the Time into Artificial Neural Networks",
+    booktitle="Mining Intelligence and Knowledge Exploration",
+    year="2018",
+    publisher="Springer International Publishing",
+    address="Cham",
+    pages="248--258",
+    abstract="A current research trend in neurocomputing involves the design of novel artificial neural networks incorporating the concept of time into their operating model. In this paper, a novel architecture that employs stigmergy is proposed. Computational stigmergy is used to dynamically increase (or decrease) the strength of a connection, or the activation level, of an artificial neuron when stimulated (or released). This study lays down a basic framework for the derivation of a stigmergic NN with a related training algorithm. To show its potential, some pilot experiments have been reported. The XOR problem is solved by using only one single stigmergic neuron with one input and one output. A static NN, a stigmergic NN, a recurrent NN and a long short-term memory NN have been trained to solve the MNIST digits recognition benchmark.",
+    isbn="978-3-030-05918-7"
 }
 ```
 
