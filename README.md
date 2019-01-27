@@ -59,7 +59,7 @@ Train and evaluation of the xor problem using only **one stigmergic perceptron**
 If you want to cite us please use this BibTeX
 
 ```
-@InProceedings{10.1007/978-3-030-05918-7_22,
+@InProceedings{galatolo_snn,
     author="Galatolo, Federico A.
     and Cimino, Mario Giovanni C. A.
     and Vaglini, Gigliola",
